@@ -1,0 +1,218 @@
+{
+  "header": {
+    "companyName" : "One-Stop մաքրման ծառայություն",
+    "weekDays" : "Երկ - Ուրբ",
+    "hours": "08:00 - 17:30",
+    "phoneNumber" : "110 220 9800"
+  },
+
+  "menu" : {
+    "logoName": "Մաքուր Աշխատանք",
+    "home": "Գլխավոր",
+    "about": "Մեր մասին",
+    "contact": "Կապ",
+    "getStarted": "Եկեք սկսենք"
+
+  },
+  "changingWords": {
+    "kitchen": "Խոհանոց",
+    "house": "Տուն",
+    "office": "Գրասենյակ"
+  },
+  "home": {
+    "weCleanYour": "Մենք մաքրում ենք ձեր",
+    "introduction": "Ներածություն",
+    "exploreServices": "Ծառայություններ"
+  },
+  "section2": {
+    "title": "Հուսալի և արագ մաքրման ծառայություն\n",
+    "text1": "-ը Bootstrap v.5.1.3 HTML CSS ձևանմուշ է անվճար ներբեռնման համար, որը տրամադրվում է Tooplate-ի կողմից: Դուք կարող եք օգտագործել այս դասավորությունը ցանկացած նպատակով: Նկարները վերցված են FreePik և WorldVectorLogo կայքերից: Դուք չեք կարող վերաբաշխել այս ձևանմուշի ZIP ֆայլը ձևանմուշների հավաքածուի որևէ այլ կայքում: Խնդրում ենք կապնվել մեզ հետ լրացուցիչ տեղեկությունների համար: Շնորհակալություն.",
+    "text2": "",
+    "needHelp": "Օգնությու՞ն է պետք",
+    "callUs" : "Զանգահարեք մեզ"
+  },
+  "offers": {
+    "titleOffers": "Մեր լավագույն առաջարկները",
+    "officeClnService" : {
+      "officeCleaning" : "Օֆֆիսի մաքրում",
+      "officeImg1": "../imgs/services/people-taking-care-office-cleaning.jpg",
+      "officeImg2": "../imgs/services/people-taking-care-office.jpg",
+      "officeCleaningText" : "Մաքրման լավագույն ծառայություններ մատուցող Ipsum dolor sit consectetur kengan",
+      "officeCleaningPrice": "$820",
+      "officeCleaningHour": "5ժ",
+      "officeClnBtn": "Ավելին"
+    },
+    "kitchenClnService" : {
+        "kitchenCleaning" : "Խոհանոցի Մաքրում",
+      "kitchenImg1": "../imgs/services/young-smiling-woman-wearing-rubber-gloves-cleaning-stove.jpg",
+      "kitchenImg2": "../imgs/services/woman-holding-rag-detergent-cleaning-cooker.jpg",
+      "kitchenCleaningText" : "Մաքրման լավագույն ծառայություններ մատուցող Ipsum dolor sit consectetur kengan",
+      "kitchenCleaningPrice": "$640",
+      "kitchenCleaningHour": "4ժ",
+      "kitchenClnBtn": "Ավելին"
+    },
+    "carWashingService" : {
+      "carWashing" : "Ավտոլվացում",
+      "carWashImg1": "../imgs/services/man-polishing-car-inside-service.jpg",
+      "carWashImg2": "../imgs/services/man-polishing-car-inside.jpg",
+      "carWashText" : "Մաքրման լավագույն ծառայություններ մատուցող Ipsum dolor sit consectetur kengan",
+      "carWashPrice": "$240",
+      "carWashHour": "2ժ",
+      "carWashBtn": "Ավելին"
+    },
+    "factoryClnService" : {
+      "factoryCleaning" : "Գործարանի մաքրում",
+      "factoryClnImg1": "../imgs/services/professional-industrial-cleaner-protective-uniform-cleaning-floor-food-processing-plant.jpg",
+      "factoryClnImg2": "../imgs/services/close-up-mop-cleaning-industrial-plant-floor.jpg",
+      "factoryClnText" : "Մաքրման լավագույն ծառայություններ մատուցող Ipsum dolor sit consectetur kengan",
+      "factoryClnPrice": "$6,800",
+      "factoryClnHour": "30ժ",
+      "factoryClnBtn": "Ավելին"
+    }
+  },
+  "opinions": {
+    "happyCustomers": "Երջանիկ Հաճախորդներ",
+    "customer1": {
+      "customer1Img" : "../imgs/happy-customer-01.jpg",
+      "customer1Name": "Մարի",
+      "customer1Text": "Best Cleaning Service Provider Ipsum dolor sit consectetur kengan."
+    },
+    "customer2": {
+      "customer2Img" : "../imgs/happy-customer-02.jpg",
+      "customer2Name": "Նանա",
+      "customer2Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer3": {
+      "customer3Img" : "../imgs/happy-customer-03.jpg",
+      "customer3Name": "Իլոն",
+      "customer3Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer4": {
+      "customer4Img" : "../imgs/happy-customer-04.jpg",
+      "customer4Name": "Ջոշ",
+      "customer4Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer5": {
+      "customer5Img" : "../imgs/happy-customer-05.jpg",
+      "customer5Name": "Քեթի",
+      "customer5Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer6": {
+      "customer6Img" : "../imgs/happy-customer-06.jpg",
+      "customer6Name": "Շայ",
+      "customer6Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.."
+    }
+  },
+  "partners": {
+    "partnersTitle": "Ընկերություններ",
+    "company1Img": "../imgs/partners/toprak-leasing.svg",
+    "company2Img": "../imgs/partners/glorix.svg",
+    "company3Img": "../imgs/partners/woocommerce.svg",
+    "company4Img": "../imgs/partners/rolf-leasing.svg",
+    "company5Img": "../imgs/partners/unilabs.svg"
+  },
+  "footer": {
+    "services": {
+      "ourServices": "Ծառայություններ",
+      "house": "Տան մաքրում",
+      "carWash": "Ավտոլվացում",
+      "laundry": "Լվացք",
+      "officeCln": "Օֆֆիսի մաքրում",
+      "factory": "Գործարանի մաքրում"
+    },
+    "office": {
+      "officeTitle": "Օֆֆիս",
+      "location": "Akershusstranda 20, 0150 Oslo, Նորվեգիա",
+      "phone": "110-220-9800",
+      "mail": "info@company.com"
+    },
+    "hours": {
+      "serviceHours": "Սպասարկման ժամեր"
+    }
+  },
+  "aboutUs": {
+    "aboutUsTitle": "Մեր մասին",
+    "aboutUsSec2": {
+      "img": "../imgs/team/cleaning-concept-with-man-showing-business-card.jpg",
+      "title1": "Մաքրման ծառայություն",
+      "title2": "Սկսած 2018թ",
+      "text1": "Tooplate կայքը տրամադրում է մի շարք վերջին HTML ձևանմուշներ կամ Bootstrap 5 թեմաներ ձեր բիզնեսի կայքերի համար.",
+      "text2": "Clean Work-ը ձեր ընկերության կայքի համար կապույտ գույնի թեմայի HTML CSS ձևանմուշ է: Դուք կարող եք օգտագործել այս ձևանմուշը ցանկացած նպատակով.",
+      "button": "Կապվել"
+    },
+    "teamMembers": {
+      "title": "Հանդիպեք մարդկանց",
+      "member1": {
+        "img1": "../imgs/team/young-cleaning-man-wearing-casual-clothes.jpg",
+        "name1": "Ջոշ",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt dolore magna",
+        "phNumber1": "110-220-9800"
+      },
+      "member2": {
+        "img2": "../imgs/team/happy-young-woman-wiping-kitchen-counter-wearing-yellow-gloves.jpg",
+        "name2": "Մարի",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt dolore magna",
+        "phNumber2": "110-220-9800"
+      }
+    }
+  },
+  "officeCleaning": {
+    "officeClnTitle": "Օֆֆիսի մաքրում",
+    "officeClnInfo": {
+      "text1": "Խնդրում ենք տեղեկացնել ձեր ընկերներին Tooplate-ի անվճար HTML ձևանմուշների մասին: Շնորհակալություն ձեր աշխատանքի համար մեր ձևանմուշներն ընտրելու համար:",
+      "title1": "Մատչելի սպասարկում",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Փորձագետների թիմ",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "photoGallery": {
+    "title": "Լուսանկարներ"
+  },
+  "relatedServices": {
+    "title": "Առնչվող ծառայություններ"
+  },
+  "kitchenCleaning": {
+    "kitchenClnTitle" : "Խոհանոցի Մաքրում",
+    "kitchenClnInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "carWashing": {
+    "carWashTitle" : "Ավտոլվացում",
+    "carWashInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "factoryCleaning": {
+    "factoryClnTitle" : "Գործարանի մաքրում",
+    "factoryClnInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "contact": {
+    "contactTitle": "Կապ",
+    "contactInfo": {
+      "title": "Մենք ուրախ ենք օգնել",
+      "text": "Լավագույն մաքրման ծառայությունը պատրաստ է սպասարկել ձեզ: Clean Work-ը պրոֆեսիոնալ կայքի դասավորություն է ձեր բիզնեսի համար."
+    },
+    "contactInformation": "Կոնտակտային տվյալներ",
+    "inputsField": {
+      "title": "Անվճար գնանշում",
+      "submitButton": "Հայց ներկայացնել",
+      "regTitle": "Գրանցում"
+    }
+  }
+}

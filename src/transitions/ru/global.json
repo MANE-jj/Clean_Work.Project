@@ -1,0 +1,225 @@
+{
+  "header": {
+    "companyName" : "Универсальная служба уборки",
+    "weekDays" : "пон - пят",
+    "hours" : "09:00 - 18:00",
+    "phoneNumber" : "110 220 9800"
+
+  },
+  "menu": {
+    "logoName": "Чистая работа",
+    "home": "Главная",
+    "about": "О нас",
+    "contact": "Контакты",
+    "getStarted": "Начать"
+  },
+  "changingWords": {
+    "kitchen": "Кухня",
+    "house": "Дом",
+    "office": "Офис"
+  },
+  "home": {
+    "weCleanYour": "Мы очищаем ваш",
+    "introduction": "Введение",
+    "exploreServices": "услуги"
+  },
+
+  "section2": {
+    "title": "Надежная и быстрая уборка",
+    "text1": " — это HTML-CSS-шаблон Bootstrap v.5.1.3, который можно бесплатно загрузить, предоставленный Tooplate. Вы можете использовать этот макет для любых целей. Изображения взяты с сайтов FreePik и WorldVectorLogo.",
+    "text2": "Вы не имеете права распространять этот ZIP-файл шаблона на любом другом веб-сайте коллекции шаблонов. Пожалуйста, свяжитесь с нами для получения дополнительной информации. Спасибо.",
+    "needHelp": "Нужна помощь?",
+    "callUs" : "Позвоните нам"
+  },
+  "offers": {
+    "titleOffers": "Наши лучшие предложения",
+    "officeClnService" : {
+      "officeCleaning" : "Уборка офиса",
+      "officeImg1": "../imgs/services/people-taking-care-office-cleaning.jpg",
+      "officeImg2": "../imgs/services/people-taking-care-office.jpg",
+      "officeCleaningText" : "Лучший поставщик услуг по уборке Ipsum dolor sit consectetur kengan",
+      "officeCleaningPrice": "$820",
+      "officeCleaningHour": "5ч",
+      "officeClnBtn": "Более"
+    },
+    "kitchenClnService" : {
+      "kitchenCleaning" : "Уборка кухни",
+      "kitchenImg1": "../imgs/services/young-smiling-woman-wearing-rubber-gloves-cleaning-stove.jpg",
+      "kitchenImg2": "../imgs/services/woman-holding-rag-detergent-cleaning-cooker.jpg",
+      "kitchenCleaningText" : "Лучший поставщик услуг по уборке Ipsum dolor sit consectetur kengan",
+      "kitchenCleaningPrice": "$640",
+      "kitchenCleaningHour": "4ч",
+      "kitchenClnBtn": "Более"
+    },
+    "carWashingService" : {
+      "carWashing" : "Мойка",
+      "carWashImg1": "../imgs/services/man-polishing-car-inside-service.jpg",
+      "carWashImg2": "../imgs/services/man-polishing-car-inside.jpg",
+      "carWashText" : "Лучший поставщик услуг по уборке Ipsum dolor sit consectetur kengan",
+      "carWashPrice": "$240",
+      "carWashHour": "2ч",
+      "carWashBtn": "Более"
+    },
+    "factoryClnService" : {
+      "factoryCleaning" : "Заводская уборка",
+      "factoryClnImg1": "../imgs/services/professional-industrial-cleaner-protective-uniform-cleaning-floor-food-processing-plant.jpg",
+      "factoryClnImg2": "../imgs/services/close-up-mop-cleaning-industrial-plant-floor.jpg",
+      "factoryClnText" : "Лучший поставщик услуг по уборке Ipsum dolor sit consectetur kengan",
+      "factoryClnPrice": "$6,800",
+      "factoryClnHour": "30ч",
+      "factoryClnBtn": "Более"
+    }
+  },
+  "opinions": {
+    "happyCustomers": "Счастливые клиенты",
+    "customer1": {
+      "customer1Img" : "../imgs/happy-customer-01.jpg",
+      "customer1Name": "Мари",
+      "customer1Text": "Best Cleaning Service Provider Ipsum dolor sit consectetur kengan."
+    },
+    "customer2": {
+      "customer2Img" : "../imgs/happy-customer-02.jpg",
+      "customer2Name": "Нана",
+      "customer2Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer3": {
+      "customer3Img" : "../imgs/happy-customer-03.jpg",
+      "customer3Name": "Илон",
+      "customer3Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer4": {
+      "customer4Img" : "../imgs/happy-customer-04.jpg",
+      "customer4Name": "Джош",
+      "customer4Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer5": {
+      "customer5Img" : "../imgs/happy-customer-05.jpg",
+      "customer5Name": "Кэти",
+      "customer5Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore.."
+    },
+    "customer6": {
+      "customer6Img" : "../imgs/happy-customer-06.jpg",
+      "customer6Name": "Шай",
+      "customer6Text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.."
+    }
+  },
+  "partners": {
+    "partnersTitle": "Доверяют компании",
+    "company1Img": "../imgs/partners/toprak-leasing.svg",
+    "company2Img": "../imgs/partners/glorix.svg",
+    "company3Img": "../imgs/partners/woocommerce.svg",
+    "company4Img": "../imgs/partners/rolf-leasing.svg",
+    "company5Img": "../imgs/partners/unilabs.svg"
+  },
+  "footer": {
+    "services": {
+      "ourServices": "Услуги",
+      "house": "Уборка дома",
+      "carWash": "Мойка",
+      "laundry": "Прачечная",
+      "officeCln": "Уборка офиса",
+      "factory": "Чистка фабрика"
+    },
+    "office": {
+      "officeTitle": "Oфиса",
+      "location": "Akershusstranda 20, 0150 Oslo, Норвегия",
+      "phone": "110-220-9800",
+      "mail": "info@company.com"
+    },
+    "hours": {
+      "serviceHours": "Часы работы"
+    }
+  },
+  "aboutUs": {
+    "aboutUsTitle": "О нас",
+    "aboutUsSec2": {
+      "img": "../imgs/team/cleaning-concept-with-man-showing-business-card.jpg",
+      "title1": "Уборка",
+      "title2": "Агентство С 2018 года",
+      "text1": "Веб-сайт Tooplate предоставляет множество новейших HTML-шаблонов или тем Bootstrap 5 для ваших бизнес-сайтов..",
+      "text2": "Clean Work — это HTML-CSS-шаблон синего цвета для веб-сайта вашей компании. Вы можете использовать этот шаблон для любых целей.",
+      "button": "Связаться"
+    },
+    "teamMembers": {
+      "title": "Встречать людей",
+      "member1": {
+        "img1": "../imgs/team/young-cleaning-man-wearing-casual-clothes.jpg",
+        "name1": "Джош",
+        "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt dolore magna",
+        "phNumber1": "110-220-9800"
+      },
+      "member2": {
+        "img2": "../imgs/team/happy-young-woman-wiping-kitchen-counter-wearing-yellow-gloves.jpg",
+        "name2": "Мари",
+        "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing tempor incididunt dolore magna",
+        "phNumber2": "110-220-9800"
+      }
+    }
+  },
+  "officeCleaning": {
+    "officeClnTitle": "Уборка офиса",
+    "officeClnInfo": {
+      "text1": "Расскажите своим друзьям о бесплатных шаблонах HTML Tooplate. Благодарим Вас за выбор наших шаблонов для своей работы.",
+      "title1": "Доступное обслуживание",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Экспертная команда",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "photoGallery": {
+    "title": "Фото"
+  },
+  "relatedServices": {
+    "title": "Связанные услуги"
+  },
+  "kitchenCleaning": {
+    "kitchenClnTitle" : "Уборка кухни",
+    "kitchenClnInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "carWashing": {
+    "carWashTitle" : "Мойка",
+    "carWashInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "factoryCleaning": {
+    "factoryClnTitle" : "Заводская уборка",
+    "factoryClnInfo": {
+      "text1": "Please tell your friends about Tooplate's free HTML templates. Thank you for choosing our templates for your work.",
+      "title1": "Affordable Service",
+      "text2": "Clean Work is free Bootstrap v.5.1.3 HTML CSS template provided by Tooplate. You can use this layout for a commercial purpose.",
+      "title2": "Expert Team",
+      "text3": "You are not allowed to redistribute this clean work HTML template's downloadable ZIP file on any other template website. Please contact us for more info. Thank you."
+    }
+  },
+  "contact": {
+    "contactTitle": "Контакт",
+    "contactInfo": {
+      "title": "Мы рады помочь",
+      "text": "Лучшая клининговая служба готова вам помочь. Clean Work — профессиональный макет сайта для вашего бизнеса."
+    },
+    "contactInformation": "Контактная информация",
+    "inputsField": {
+      "title": "Бесплатное предложение",
+      "serviceType": {
+        "title": "Обслуживания",
+        "house": "Уборка дома",
+        "car": "Мойка",
+        "office": "Уборка офиса",
+        "factory": "Заводская уборка"
+      },
+      "submitButton": "Отправить запрос",
+      "regTitle": "Постановка на учет"
+    }
+  }
+}

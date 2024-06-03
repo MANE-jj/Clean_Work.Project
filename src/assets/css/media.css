@@ -1,0 +1,1904 @@
+@media (min-width: 321px) and (max-width: 480px) {
+    header {
+        height: 80px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .hours {
+        display: none;
+    }
+    .serviceName {
+        margin-left: -100px;
+    }
+    .phoneNumber {
+        width: 120px;
+        height: 20px;
+        margin-top: -10px;
+        margin-left: 350px;
+        /*border: solid;*/
+    }
+    nav {
+        background: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+
+    .mobileIcons {
+        display: flex;
+        font-size: 23px;
+        background: none;
+        border: none;
+        color: #7CB8EB;
+    }
+    .companyName {
+        color: #7CB8EB;
+    }
+    .navItems {
+        display: none;
+    }
+    .navbarOpen {
+        background: white;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+    .logoToggle {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .navItemsMobile {
+        width: 100%;
+        height: 200px;
+        background: white;
+        color: black;
+    }
+    .linksInMobile {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-direction: column;
+        font-size: 20px;
+    }
+    .linkHome {
+        width: 100%;
+        height: 30px;
+        background: white;
+        color: black;
+    }
+    .linksColor {
+        color: #7CB8EB;
+    }
+    .slide1Title {
+        font-size: 50px;
+        text-align: center;
+    }
+    .btn1,.btn2 {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+    .buttons {
+        display: flex;
+        align-items: center;
+    }
+    .homeSec2 {
+        /*border: solid;*/
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sec2Title {
+        font-size: 27px;
+    }
+    .sec2Part1 {
+        width: 350px;
+    }
+    .imgHelp {
+        height: 300px;
+        /*border: solid;*/
+    }
+    .sec2Img {
+        width: 400px;
+        height: 250px;
+        margin-left: 15%;
+    }
+    .forHelp {
+        top: -160px;
+        left: 210px;
+    }
+    .homeSec3 {
+        /*border: solid;*/
+        height: 2300px;
+        margin-top: 0;
+    }
+    .titleOffer {
+        font-size: 30px;
+        text-align: left;
+    }
+    .offers {
+        height: 1900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .offers12,.offers34 {
+        height: 1900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .service12,.service34,.service12Kitchen {
+        width: 300px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+        margin-top: 30px;
+    }
+    .customerOpinions {
+        height: 1700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .customersTitle {
+        font-size: 30px;
+        /*margin-top: -500px;*/
+    }
+    .opinions {
+        height: 1500px;
+        /*border: blue solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .opinion1,.opinion2,.opinion3,.opinion4,.opinion5,.opinion6 {
+        width: 330px;
+    }
+    .opinions12,.opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        /*border: red solid;*/
+        height: 450px;
+    }
+    .opinions34 {
+        /*border: red solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .opinions56 {
+        /*border: red solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .partners {
+        height: 550px;
+    }
+    .partnersTitle {
+        width: 300px;
+        font-size: 17px;
+    }
+    .companiesLogos {
+        /*border: solid;*/
+        height: 500px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .comp1Logo1 {
+        /*border: solid;*/
+        width: 160px;
+    }
+    footer {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logoLinks {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .links {
+        width: 200px;
+        /*border: dashed;*/
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navItemFooter {
+        margin-left: 20px;
+        font-size: 18px;
+    }
+    .navItemButtonFooter {
+        margin-left: 5px;
+        font-size: 18px;
+    }
+    .footerInfo {
+        height: 800px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    .services,.office {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .footerServiceName {
+        font-size: 18px;
+    }
+    .location {
+        font-size: 20px;
+    }
+    .locationMap {
+        font-size: 18px;
+    }
+    .socialMedias {
+        margin-top: 6px;
+    }
+    .serviceHours {
+        width: 300px;
+        /*border: solid;*/
+        margin-top: -30px;
+        margin-left: 20px;
+    }
+    .aboutSec2 {
+        height: 650px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .aboutUsImg {
+        width: 330px;
+        height: 240px;
+    }
+    .aboutUsInfo {
+        text-align: center;
+        width: 100%;
+        height: 300px;
+    }
+    .aboutSec2Titles {
+        font-size: 32px;
+    }
+    .aboutSec2Texts {
+        font-size: 16px;
+    }
+    .aboutSec2Btn {
+        padding: 15px 16px;
+    }
+    .teamMembers {
+        height: 1400px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .infoAboutMembers {
+        height: 1200px;
+        display: flex;
+        flex-direction: column;
+        /*border: red solid;*/
+        margin-top: -100px;
+    }
+    .member1,.member2 {
+        /*border: solid;*/
+        height: 700px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .square1,.square2 {
+        margin-top: 30px;
+        padding-top: -10px;
+    }
+    .member1Info,.member2Info {
+        margin-left: 0;
+        margin-top: -20px;
+    }
+    .member1Img,.member2Img {
+        width: 290px;
+    }
+    .meetPeopleTitle {
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .contactInfo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        height: 1200px;
+    }
+    .contactTitle {
+        font-size: 25px;
+        padding-left: 10px;
+    }
+    .contactText {
+        width: 100%;
+        padding-left: 10px;
+        font-size: 17px;
+        text-align: left;
+        line-height: 1.4;
+    }
+    .infoAndInputs {
+        height: 1000px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .contactInfos {
+        width: 300px;
+        height: 300px;
+    }
+    .iconText {
+        height: 80px;
+    }
+    .contactInfoText {
+        width: 280px;
+    }
+    .formField {
+        width: 350px;
+        height: 500px;
+    }
+    .inputs {
+        width: 300px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .titleInputs {
+        font-size: 28px;
+    }
+    .nameSurname {
+        padding: 15px 20px;
+    }
+    .serviceSelection {
+        padding: 15px 16px;
+        font-size: 20px;
+    }
+    textarea {
+        width: 200px;
+        height: 70px;
+    }
+    textarea::placeholder{
+        padding-left: 0;
+        font-size: 20px;
+        text-align: center;
+    }
+    .officeCleaningInfo {
+        height: 850px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .officeClnImg22 ,.officeClnImg11 {
+        width: 300px;
+        height: 300px;
+    }
+    .kitchenClnImg22 ,.kitchenClnImg11 {
+        width: 300px;
+        height: 300px;
+    }
+    .carWashImg22 ,.carWashImg11 {
+        width: 300px;
+        height: 300px;
+    }
+    .factoryClnImg22 ,.factoryClnImg11 {
+        width: 300px;
+        height: 300px;
+    }
+    .officePriceHour1 {
+        width: 300px;
+        /*border: solid;*/
+        margin-top: 250px;
+    }
+    .infoOffice {
+        width: 300px;
+        height: 450px;
+        /*border: solid;*/
+        text-align: center;
+        margin-top: -100px;
+    }
+    .titleOffice {
+        font-size: 40px;
+    }
+    .photoGallery {
+        height: 800px;
+    }
+    .photosOffice,
+    .photosKitchen,
+    .photosCarWash,
+    .photosFactoryCln{
+        /*border: solid;*/
+        height: 640px;
+        display: flex;
+        flex-direction: column;
+    }
+    .photosOffice1 {
+        width: 300px;
+        height: 200px;
+    }
+    .photosOffice1:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosOffice2 {
+        width: 300px;
+        height: 200px;
+    }
+    .photosOffice2:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosOffice3 {
+        width: 300px;
+        height: 200px;
+    }
+    .photosOffice3:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photoKitchen1,.photoKitchen2,.photoKitchen3  {
+        width: 300px;
+        height: 200px;
+    }
+    .photosCarWash1,.photosCarWash2,.photosCarWash3  {
+        width: 300px;
+        height: 200px;
+    }
+    .photosFactory1,.photosFactory2,.photosFactory3  {
+        width: 300px;
+        height: 200px;
+    }
+    .photosFactory1:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosFactory2:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosFactory3:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosCarWash1:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosCarWash2:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photosCarWash3:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photoKitchen1:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photoKitchen2:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .photoKitchen3:hover {
+        width: 310px;
+        height: 210px;
+    }
+    .relatedServicesTitle {
+        /*padding-top: 40px;*/
+        font-size: 40px;
+    }
+
+
+    .registration {
+        width: 350px;
+        height: 650px;
+        border-radius: 30px;
+        background: #7CB8EB;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        margin-left: 0;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+    header {
+        width: 100%;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .hours {
+        display: none;
+    }
+    .nameHour {
+        width: 250px;
+        height: 20px;
+    }
+    .phoneNumber {
+        width: 270px;
+        height: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 100px;
+    }
+
+    nav {
+        background: white;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+
+    .mobileIcons {
+        display: flex;
+        font-size: 23px;
+        background: none;
+        border: none;
+        color: #7CB8EB;
+    }
+    .companyName {
+        color: #7CB8EB;
+    }
+    .navItems {
+        display: none;
+    }
+    .navbarOpen {
+        background: white;
+        height: 300px;
+        display: flex;
+        flex-direction: column;
+    }
+    .logoToggle {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .navItemsMobile {
+        width: 100%;
+        height: 200px;
+        background: white;
+        color: black;
+    }
+    .linksInMobile {
+        width: 100%;
+        height: 50px;
+        display: flex;
+        flex-direction: column;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .linksColor {
+        color: #7CB8EB;
+    }
+
+    .slide1Title {
+        font-size: 50px;
+        text-align: center;
+    }
+    .btn1,.btn2 {
+        padding: 10px 20px;
+        font-size: 18px;
+    }
+    .buttons {
+        display: flex;
+        align-items: center;
+    }
+
+    .homeSec2 {
+        /*border: solid;*/
+        width: 100%;
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+        /*justify-content: space-between;*/
+        /*align-items: center;*/
+    }
+    .sec2Title {
+        font-size: 30px;
+    }
+    .sec2Part1 {
+        width: 100%;
+        height: 500px;
+        /*border: solid;*/
+    }
+    .imgHelp {
+        width: 100% ;
+        height: 300px;
+        /*border: red solid;*/
+        /*margin-top: 0%;*/
+    }
+    .sec2Img {
+        width: 500px;
+        height: 350px;
+        margin-top: -22px;
+    }
+    .forHelp {
+        top: -160px;
+        left: 210px;
+    }
+    .homeSec3 {
+        /*border: solid;*/
+        width: 100%;
+        height: 2300px;
+        margin-top: 0;
+    }
+    .titleOffer {
+        font-size: 30px;
+    }
+    .offers {
+        height: 1900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .offers12,.offers34 {
+        height: 1900px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .service12,.service34,.service12Kitchen {
+        width: 450px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+        margin-top: 30px;
+    }
+    .officeClnImg2,.officeClnImg1,.kitchenClnImg2,.kitchenClnImg1,.factoryClnImg1,.factoryClnImg2,.carWashImg1,.carWashImg2 {
+        width: 400px;
+        height: 300px;
+    }
+    .officePriceHour {
+        width: 400px;
+        margin-top: 205px;
+    }
+
+
+    .customerOpinions {
+        height: 1700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .customersTitle {
+        font-size: 50px;
+        /*margin-top: -500px;*/
+    }
+    .opinions {
+        height: 1500px;
+        /*border: blue solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .opinion1,.opinion2,.opinion3,.opinion4,.opinion5,.opinion6 {
+        width: 470px;
+        display: flex;
+        align-items: flex-start;
+    }
+    .opinions12,.opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 450px;
+        width: 100%;
+    }
+    .opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .opinions56 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .customer1Text {
+        width: 390px;
+        color: white;
+        font-size: 19px;
+        padding-left: 20px;
+    }
+
+    .partners {
+        height: 450px;
+    }
+    .partnersTitle {
+        width: 300px;
+        font-size: 17px;
+        margin-top: -20px;
+    }
+    .companiesLogos {
+        /*border: solid;*/
+        height: 500px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .comp1Logo1 {
+        /*border: solid;*/
+        width: 160px;
+    }
+
+    footer {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logoLinks {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .links {
+        width: 400px;
+        /*border: dashed;*/
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navItemFooter {
+        margin-left: 20px;
+        font-size: 18px;
+    }
+    .navItemButtonFooter {
+        margin-left: 5px;
+        font-size: 18px;
+    }
+    .footerInfo {
+        height: 800px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    .services,.office {
+        width: 100%;
+        margin-left: 20px;
+    }
+    .footerServiceName {
+        font-size: 18px;
+    }
+    .location {
+        font-size: 20px;
+    }
+    .locationMap {
+        font-size: 18px;
+    }
+    .socialMedias {
+        margin-top: 6px;
+    }
+    .serviceHours {
+        width: 300px;
+        /*border: solid;*/
+        margin-top: -30px;
+        margin-left: 20px;
+    }
+    .aboutSec2 {
+        height: 650px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .aboutUsImg {
+        width: 450px;
+        height: 300px;
+    }
+    .aboutUsInfo {
+        text-align: center;
+        width: 100%;
+        height: 300px;
+    }
+    .aboutSec2Titles {
+        font-size: 37px;
+    }
+    .aboutSec2Texts {
+        font-size: 16px;
+    }
+    .aboutSec2Btn {
+        padding: 15px 16px;
+    }
+    .teamMembers {
+        height: 1500px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .infoAboutMembers {
+        height: 1300px;
+        display: flex;
+        flex-direction: column;
+        /*border: red solid;*/
+        margin-top: -100px;
+    }
+    .member1,.member2 {
+        height: 750px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .square1,.square2 {
+        margin-top: 30px;
+        padding-top: -10px;
+    }
+    .member1Info,.member2Info {
+        width: 450px;
+        height: 180px;
+        margin-left: 0;
+        margin-top: -20px;
+    }
+    .member1Img,.member2Img {
+        width: 450px;
+        height: 350px;
+    }
+    .meetPeopleTitle {
+        font-size: 40px;
+        margin-top: -10px;
+    }
+    .contactInfo {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+        height: 1200px;
+    }
+    .infoAndInputs {
+        height: 1000px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    .contactInfos {
+        width: 400px;
+        height: 300px;
+    }
+    .iconText {
+        height: 80px;
+    }
+    .contactInfoText {
+        width: 280px;
+    }
+    .formField {
+        width: 450px;
+        height: 500px;
+    }
+    .inputs {
+        width: 400px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .titleInputs {
+        font-size: 28px;
+    }
+    .nameSurname {
+        padding: 15px 100px;
+    }
+    .serviceSelection {
+        padding: 15px 98px;
+        font-size: 20px;
+    }
+    textarea {
+        width: 365px;
+        height: 70px;
+    }
+    textarea::placeholder{
+        padding-left: 0;
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .officeCleaningInfo {
+        height: 900px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .officeClnImg22 ,.officeClnImg11 {
+        width: 450px;
+        height: 350px;
+    }
+    .kitchenClnImg22 ,.kitchenClnImg11 {
+        width: 450px;
+        height: 350px;
+    }
+    .carWashImg22 ,.carWashImg11 {
+        width: 450px;
+        height: 350px;
+    }
+    .factoryClnImg22 ,.factoryClnImg11 {
+        width: 450px;
+        height: 350px;
+    }
+    .officePriceHour1 {
+        width: 450px;
+        margin-top: 300px;
+    }
+    .infoOffice {
+        width: 500px;
+        height: 350px;
+        /*border: solid;*/
+        text-align: center;
+        margin-top: -100px;
+    }
+    .titleOffice {
+        font-size: 40px;
+    }
+    .photoGallery {
+        height: 950px;
+    }
+    .photosOffice,
+    .photosKitchen,
+    .photosCarWash,
+    .photosFactoryCln{
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+    }
+    .photosOffice1,
+    .photosOffice2,
+    .photosOffice3,
+    .photoKitchen1,
+    .photoKitchen2,
+    .photoKitchen3,
+    .photosCarWash1,
+    .photosCarWash3,
+    .photosCarWash2,
+    .photosFactory1,
+    .photosFactory2,
+    .photosFactory3
+    {
+        width: 450px;
+        height: 250px;
+    }
+    .photosOffice1:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosOffice2:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosOffice3:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photoKitchen1:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photoKitchen2:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photoKitchen3:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosCarWash1:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosCarWash2:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosCarWash3:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosFactory1:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosFactory2:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .photosFactory3:hover {
+        width: 460px;
+        height: 260px;
+    }
+    .relatedServicesTitle {
+        /*padding-top: 40px;*/
+        font-size: 40px;
+    }
+    .relatedServices {
+        height: 1300px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .registration {
+        width: 350px;
+        height: 650px;
+        border-radius: 30px;
+        background: #7CB8EB;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-direction: column;
+        margin-left: 0;
+    }
+}
+@media (min-width: 768px) and (max-width: 979px) {
+    .homeSec2 {
+        width: 100%;
+        height: 600px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sec2Title {
+        font-size: 45px;
+    }
+    .sec2Part1 {
+        width: 700px;
+        height: 500px;
+        /*border: solid;*/
+    }
+    .imgHelp {
+        width: 100% ;
+        height: 500px;
+        /*border: red solid;*/
+        /*margin-top: 0%;*/
+    }
+    .sec2Img {
+        width: 600px;
+        height: 400px;
+        margin-top: -37px;
+    }
+    .forHelp {
+        top: -160px;
+        left: 210px;
+    }
+    .homeSec3 {
+        height: 1500px;
+    }
+    .offers {
+        height: 1300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .offers12,.offers34 {
+        height: 1000px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+    }
+    .service12,.service12Kitchen,.service34
+    {
+        width: 750px;
+    }
+
+    .customerOpinions {
+        height: 1700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .customersTitle {
+        font-size: 54px;
+        /*margin-top: -500px;*/
+    }
+    .opinions {
+        height: 1500px;
+        /*border: blue solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .opinion1,.opinion2,.opinion3,.opinion4,.opinion5,.opinion6 {
+        width: 700px;
+        display: flex;
+        align-items: flex-start;
+    }
+    .opinions12,.opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 450px;
+        width: 100%;
+    }
+    .opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .opinions56 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .customer1Text {
+        width: 700px;
+        color: white;
+        font-size: 19px;
+        padding-left: 20px;
+    }
+
+    .partners {
+        height: 340px;
+    }
+    .partnersTitle {
+        width: 300px;
+        font-size: 17px;
+        margin-top: -20px;
+    }
+    .companiesLogos {
+        /*border: solid;*/
+        height: 380px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .comp1Logo1 {
+        /*border: solid;*/
+        width: 200px;
+    }
+
+    footer {
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logoLinks {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .links {
+        width: 400px;
+        /*border: dashed;*/
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navItemFooter {
+        margin-left: 20px;
+        font-size: 18px;
+    }
+    .navItemButtonFooter {
+        margin-left: 5px;
+        font-size: 18px;
+    }
+    .footerInfo {
+        height: 400px;
+        /*border: solid;*/
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    .services,.office {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .services {
+        height: 200px;
+        /*border: solid;*/
+    }
+    .footerServiceName {
+        font-size: 18px;
+    }
+    .location {
+        font-size: 20px;
+    }
+    .locationMap {
+        font-size: 18px;
+    }
+    .socialMedias {
+        margin-top: 6px;
+    }
+    .serviceHours {
+        width: 460px;
+        /*border: solid;*/
+        margin-top: -200px;
+        margin-left: -270px;
+    }
+    .aboutSec2 {
+        height: 750px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .aboutUsImg {
+        width: 700px;
+        height: 350px;
+    }
+    .aboutUsInfo {
+
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        width: 700px;
+        height: 350px;
+    }
+    .aboutSec2Titles {
+        font-size: 37px;
+    }
+    .aboutSec2Texts {
+        font-size: 16px;
+    }
+    .aboutSec2Btn {
+        padding: 15px 16px;
+    }
+
+    .teamMembers {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .infoAboutMembers {
+        height: 650px;
+        display: flex;
+        flex-direction: column;
+        /*border: red solid;*/
+        margin-top: -300px;
+    }
+    .member1,.member2 {
+        width: 750px;
+        height: 300px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        /*flex-direction: column;*/
+    }
+    .square1,.square2 {
+        margin-left: 30px;
+        /*padding-top: -10px;*/
+    }
+    .member1Info,.member2Info {
+        width: 400px;
+        height: 300px;
+        margin-left: -20px;
+        /*margin-top: -20px;*/
+    }
+    .member1Img,.member2Img {
+        width: 400px;
+        height: 300px;
+    }
+    .meetPeopleTitle {
+        font-size: 40px;
+        margin-top: -100px;
+    }
+
+    .contactInfo {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        height: 1200px;
+    }
+    .infoAndInputs {
+        height: 1000px;
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-evenly;
+    }
+    .contactInfos {
+        width: 500px;
+        height: 280px;
+    }
+    .iconText {
+        height: 80px;
+    }
+    .contactInfoText {
+        width: 280px;
+    }
+    .formField {
+        width: 750px;
+        height: 500px;
+    }
+    .inputs {
+        width: 700px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .titleInputs {
+        font-size: 28px;
+    }
+    .nameSurname {
+        padding: 15px 200px;
+    }
+    .serviceSelection {
+        padding: 15px 197px;
+        font-size: 20px;
+    }
+    textarea {
+        width: 560px;
+        height: 70px;
+    }
+    textarea::placeholder{
+        padding-left: 0;
+        font-size: 20px;
+        text-align: center;
+    }
+    .officeCleaningInfo {
+        /*width: 700px;*/
+        height: 900px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .officeClnImg22 ,.officeClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .kitchenClnImg22 ,.kitchenClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .carWashImg22 ,.carWashImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .factoryClnImg22 ,.factoryClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .officePriceHour1 {
+        width: 700px;
+        margin-top: 360px;
+    }
+    .infoOffice {
+        width: 700px;
+        height: 350px;
+        /*border: solid;*/
+        text-align: left;
+        margin-top: -100px;
+    }
+    .titleOffice {
+        font-size: 40px;
+    }
+    .photoGallery {
+        height: 350px;
+    }
+    .photosOffice1,
+    .photosOffice2,
+    .photosOffice3,
+    .photoKitchen1,
+    .photoKitchen2,
+    .photoKitchen3,
+    .photosCarWash1,
+    .photosCarWash3,
+    .photosCarWash2,
+    .photosFactory1,
+    .photosFactory2,
+    .photosFactory3
+    {
+        width: 240px;
+        height: 150px;
+    }
+    .photosOffice1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosOffice2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosOffice3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosCarWash1:hover {
+        width: 250px;
+        height: 260px;
+    }
+    .photosCarWash2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosCarWash3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .relatedServicesTitle {
+        font-size: 40px;
+        margin-top: -20px;
+    }
+    .relatedServices {
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (min-width: 980px) and (max-width: 1200px) {
+    .homeSec3 {
+        height: 1500px;
+    }
+    .offers {
+        height: 1300px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .offers12,.offers34 {
+        height: 1000px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+    }
+    .service12,.service12Kitchen,.service34
+    {
+        width: 750px;
+    }
+
+    .customerOpinions {
+        height: 1700px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .customersTitle {
+        font-size: 54px;
+        /*margin-top: -500px;*/
+    }
+    .opinions {
+        height: 1500px;
+        /*border: blue solid;*/
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+    }
+    .opinion1,.opinion2,.opinion3,.opinion4,.opinion5,.opinion6 {
+        width: 700px;
+        display: flex;
+        align-items: flex-start;
+    }
+    .opinions12,.opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 450px;
+        width: 100%;
+    }
+    .opinions34 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .opinions56 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        height: 500px;
+    }
+    .customer1Text {
+        width: 700px;
+        color: white;
+        font-size: 19px;
+        padding-left: 20px;
+    }
+
+    .partners {
+        height: 340px;
+    }
+    .partnersTitle {
+        width: 300px;
+        font-size: 17px;
+        margin-top: -20px;
+    }
+    .companiesLogos {
+        /*border: solid;*/
+        height: 380px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .comp1Logo1 {
+        /*border: solid;*/
+        width: 200px;
+    }
+
+    footer {
+        height: 550px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .logoLinks {
+        width: 100%;
+        height: 100px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .links {
+        width: 400px;
+        /*border: dashed;*/
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .navItemFooter {
+        margin-left: 20px;
+        font-size: 18px;
+    }
+    .navItemButtonFooter {
+        margin-left: 5px;
+        font-size: 18px;
+    }
+    .footerInfo {
+        height: 400px;
+        /*border: solid;*/
+        display: flex;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+    .services,.office {
+        width: 350px;
+        margin-left: 20px;
+    }
+    .services {
+        height: 200px;
+        /*border: solid;*/
+    }
+    .footerServiceName {
+        font-size: 18px;
+    }
+    .location {
+        font-size: 20px;
+    }
+    .locationMap {
+        font-size: 18px;
+    }
+    .socialMedias {
+        margin-top: 6px;
+    }
+    .serviceHours {
+        width: 460px;
+        /*border: solid;*/
+        /*margin-top: -200px;*/
+        margin-left: -270px;
+        display: none;
+    }
+    .aboutSec2 {
+        height: 750px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .aboutUsImg {
+        width: 700px;
+        height: 350px;
+    }
+    .aboutUsInfo {
+
+        display: flex;
+        align-items: flex-start;
+        flex-direction: column;
+        width: 700px;
+        height: 350px;
+    }
+    .aboutSec2Titles {
+        font-size: 37px;
+    }
+    .aboutSec2Texts {
+        font-size: 16px;
+    }
+    .aboutSec2Btn {
+        padding: 15px 16px;
+    }
+
+    .teamMembers {
+        height: 900px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .infoAboutMembers {
+        height: 650px;
+        display: flex;
+        flex-direction: column;
+        /*border: red solid;*/
+        margin-top: -300px;
+    }
+    .member1,.member2 {
+        width: 750px;
+        height: 300px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        /*flex-direction: column;*/
+    }
+    .square1,.square2 {
+        margin-left: 30px;
+        /*padding-top: -10px;*/
+    }
+    .member1Info,.member2Info {
+        width: 400px;
+        height: 300px;
+        margin-left: -20px;
+        /*margin-top: -20px;*/
+    }
+    .member1Img,.member2Img {
+        width: 400px;
+        height: 300px;
+    }
+    .meetPeopleTitle {
+        font-size: 40px;
+        margin-top: -100px;
+    }
+    .contactInfo {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+        height: 1200px;
+    }
+    .infoAndInputs {
+        height: 1000px;
+        margin-left: 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-evenly;
+    }
+    .contactInfos {
+        width: 500px;
+        height: 280px;
+    }
+    .iconText {
+        height: 80px;
+    }
+    .contactInfoText {
+        width: 280px;
+    }
+    .formField {
+        width: 750px;
+        height: 500px;
+    }
+    .inputs {
+        width: 700px;
+        /*border: solid;*/
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    .titleInputs {
+        font-size: 28px;
+    }
+    .nameSurname {
+        padding: 15px 200px;
+    }
+    .serviceSelection {
+        padding: 15px 197px;
+        font-size: 20px;
+    }
+    textarea {
+        width: 560px;
+        height: 70px;
+    }
+    textarea::placeholder{
+        padding-left: 0;
+        font-size: 20px;
+        text-align: center;
+    }
+    .officeCleaningInfo {
+        /*width: 700px;*/
+        height: 900px;
+        /*border: solid;*/
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .officeClnImg22 ,.officeClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .kitchenClnImg22 ,.kitchenClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .carWashImg22 ,.carWashImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .factoryClnImg22 ,.factoryClnImg11 {
+        width: 700px;
+        height: 400px;
+    }
+    .officePriceHour1 {
+        width: 700px;
+        margin-top: 360px;
+    }
+    .infoOffice {
+        width: 700px;
+        height: 350px;
+        /*border: solid;*/
+        text-align: left;
+        margin-top: -100px;
+    }
+    .titleOffice {
+        font-size: 40px;
+    }
+    .photoGallery {
+        height: 350px;
+    }
+    .photosOffice1,
+    .photosOffice2,
+    .photosOffice3,
+    .photoKitchen1,
+    .photoKitchen2,
+    .photoKitchen3,
+    .photosCarWash1,
+    .photosCarWash3,
+    .photosCarWash2,
+    .photosFactory1,
+    .photosFactory2,
+    .photosFactory3
+    {
+        width: 240px;
+        height: 150px;
+    }
+    .photosOffice1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosOffice2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosOffice3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photoKitchen3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosCarWash1:hover {
+        width: 250px;
+        height: 260px;
+    }
+    .photosCarWash2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosCarWash3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory1:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory2:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .photosFactory3:hover {
+        width: 250px;
+        height: 160px;
+    }
+    .relatedServicesTitle {
+        font-size: 40px;
+        margin-top: -20px;
+    }
+    .relatedServices {
+        height: 800px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}
